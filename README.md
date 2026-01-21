@@ -6,7 +6,7 @@ The model is optimized with **INT4 quantization**, making it faster ⚡ and smal
 ---
 
 ## ✨ Features
-- Runs **Qwen LLM** locally on Intel NPU
+- Runs **Mistral LLM** locally on Intel NPU
 - Uses **OpenVINO™ GenAI**
 - **INT4 quantization** for efficient inference
 - Works **offline** (no GPU required)
@@ -44,7 +44,7 @@ python run.py
 
 ## Performance
 
-Running the Qwen 3-8B model on my [ASUS Vivobook S16 OLED with Intel Core Ultra 5 125H], I achieved the following performance:
+Running the Mistral 7B model on my [ASUS Vivobook S16 OLED with Intel Core Ultra 5 125H], I achieved the following performance:
 
 | Device | Performance      |
 |--------|------------------|
